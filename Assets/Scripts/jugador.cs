@@ -19,10 +19,10 @@ public class jugador : MonoBehaviour
     public TMP_Text textoAbejas;
     private bool enRetroceso = false;
    
-public AudioSource audioSource;
-public AudioClip audioPuerquito;
-public AudioClip audioCaracol;
-public AudioClip audioAbeja;
+    public AudioSource audioSource;
+    public AudioClip audioPuerquito;
+    public AudioClip audioCaracol;
+    public AudioClip audioAbeja;
 
     void Start()
     {

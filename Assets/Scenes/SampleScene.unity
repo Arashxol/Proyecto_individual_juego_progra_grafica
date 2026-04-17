@@ -5856,10 +5856,10 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 8
   textoAbejas: {fileID: 1200664124}
-  audioSource: {fileID: 0}
-  audioPuerquito: {fileID: 0}
-  audioCaracol: {fileID: 0}
-  audioAbeja: {fileID: 0}
+  audioSource: {fileID: 7878350319825782214}
+  audioPuerquito: {fileID: 8300000, guid: 9cead6a03460f3a40920d313793f8b19, type: 3}
+  audioCaracol: {fileID: 8300000, guid: 1ae2c6094ccdbf242a47194093136b99, type: 3}
+  audioAbeja: {fileID: 8300000, guid: 24839c22ddc13da499d68eac49364385, type: 3}
 --- !u!82 &7878350319825782214
 AudioSource:
   m_ObjectHideFlags: 0
