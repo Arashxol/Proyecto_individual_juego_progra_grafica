@@ -13,7 +13,6 @@ GameObject:
   - component: {fileID: 159720125482964298}
   - component: {fileID: 1460991157486784785}
   - component: {fileID: 2915685059400959644}
-  - component: {fileID: 3872634678162695943}
   m_Layer: 0
   m_Name: Idle
   m_TagString: Untagged
@@ -182,25 +181,6 @@ CapsuleCollider2D:
   m_Offset: {x: 0, y: 0.39}
   m_Size: {x: 0.35, y: 0.47999996}
   m_Direction: 0
---- !u!114 &3872634678162695943
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4747722194309259186}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 334cbd0bf6c5b3344ad3bc3f2bf6b8cb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::jugador
-  velocidad: 2
-  alturaSalto: 4
-  comprobadorPiso: {fileID: 1854760073021351258}
-  radioComprobadorPiso: 0.1
-  layerPiso:
-    serializedVersion: 2
-    m_Bits: 8
 --- !u!1 &6635483945001661061
 GameObject:
   m_ObjectHideFlags: 0
